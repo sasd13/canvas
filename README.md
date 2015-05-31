@@ -1,4 +1,4 @@
-j-canvas
+canvas
 =====
 
 Java graphic canvas
